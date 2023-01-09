@@ -11,3 +11,7 @@ I gave Hindi input string and translated it into English.<br/>
 
 Following Image ⬇︎ shows the Translated sentence that I have done.<br/>
 ![image](https://user-images.githubusercontent.com/90775147/202903401-e1d1fd89-7c64-429b-8351-91cd0b559471.png)
+
+.
+.
+
